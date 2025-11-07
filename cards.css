@@ -1,0 +1,21 @@
+.cards {
+    height: auto;
+    width: 500px;
+    background-color: #2E7D32;
+    color: white;
+    margin: auto;
+    border: solid 3px #8D6E63;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.cards:hover {
+    transform: scale(1.002);
+    background-color: #37903b;
+}
+
+.tituloCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
