@@ -1,6 +1,6 @@
 body {
-    height: 100vh;
-    background-color: #81D4FA;
+    height: auto;
+    background-color: purple;
 }
 
 footer {
@@ -14,6 +14,16 @@ footer {
     align-items: center;
     transform: 350ms ;
     color: #ffff;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    margin-left: 3px;
+    margin-right: 3px;
+    border: solid 0px;
+    border-radius: 10px;
 }
  
 .conteiner {
