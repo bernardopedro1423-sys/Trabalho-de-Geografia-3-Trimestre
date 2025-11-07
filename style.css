@@ -5,6 +5,7 @@ body {
 
 footer {
     height: 10%;
+    width: auto;
     border: solid 3px #8D6E63;
     margin: auto;
     background-color: #2E7D32;
