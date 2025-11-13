@@ -8,6 +8,7 @@
     border: solid 3px #8D6E63;
     border-radius: 10px;
     margin: 20px;
+    transition: 350ms ease-in-out;
 }
 
 .cards:hover {
