@@ -18,42 +18,48 @@ footer {
 }
 
 img {
-    height: 300px;
-    width: 400px;
+    height: auto;
+    width: auto;
     margin: auto;
     margin-left: 3px;
     margin-right: 3px;
     border: solid 0px;
     border-radius: 10px;
+    max-height: 250px;
+    max-width: 350px;
 }
  
 .conteiner {
+    flex-direction: column;
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
     height: auto;
     margin: auto;
 }
 
 .conteiner2 {
+    flex-direction: column;
     display: flex;
     align-items: center;
-    /* justify-content: center; */
+    justify-content: center;
     height: auto;
     margin: auto;
 }
 
 .conteiner3 {
+    flex-direction: column;
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
     height: auto;
     margin: auto;
 }
 
 .conteiner4 {
+    flex-direction: column;
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
     height: auto;
     margin: auto;
